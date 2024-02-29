@@ -13,7 +13,7 @@ class ProductManager {
       this.products = JSON.parse(data);
       console.log("Productos cargados desde el archivo:", this.products);
     } catch (error) {
-      // If file doesn't exist or is empty, initialize products as an empty array
+  
       this.products = [];
       console.log("No se encontraron productos en el archivo. Inicializando un nuevo array de productos.");
     }
@@ -59,7 +59,7 @@ class ProductManager {
       return;
     }
 
-    // Merge updatedFields into the existing product
+    
     this.products[index] = { ...this.products[index], ...updatedFields };
     this.saveProducts();
 
