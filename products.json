@@ -1,1 +1,93 @@
-[]
+[
+    {
+      "id": "1",
+      "title": "iPhone 8",
+      "description": "iPhone 8, 64GB, Color Gris Espacial",
+      "price": 699,
+      "thumbnail": "iphone8.jpg",
+      "code": "IPH8-64-GRIS",
+      "stock": 10
+    },
+    {
+      "id": "2",
+      "title": "iPhone 8 Plus",
+      "description": "iPhone 8 Plus, 128GB, Color Plata",
+      "price": 799,
+      "thumbnail": "iphone8plus.jpg",
+      "code": "IPH8P-128-PLATA",
+      "stock": 8
+    },
+    {
+      "id": "3",
+      "title": "iPhone X",
+      "description": "iPhone X, 256GB, Color Plateado",
+      "price": 999,
+      "thumbnail": "iphonex.jpg",
+      "code": "IPH-X-256-PLATA",
+      "stock": 6
+    },
+    {
+      "id": "4",
+      "title": "iPhone XS",
+      "description": "iPhone XS, 256GB, Color Oro",
+      "price": 1099,
+      "thumbnail": "iphonexs.jpg",
+      "code": "IPH-XS-256-ORO",
+      "stock": 5
+    },
+    {
+      "id": "5",
+      "title": "iPhone XS Max",
+      "description": "iPhone XS Max, 512GB, Color Gris Espacial",
+      "price": 1249,
+      "thumbnail": "iphonexsmax.jpg",
+      "code": "IPH-XSMAX-512-GRIS",
+      "stock": 3
+    },
+    {
+      "id": "6",
+      "title": "iPhone 11",
+      "description": "iPhone 11, 128GB, Color Verde",
+      "price": 699,
+      "thumbnail": "iphone11.jpg",
+      "code": "IPH11-128-VERDE",
+      "stock": 10
+    },
+    {
+      "id": "7",
+      "title": "iPhone 11 Pro",
+      "description": "iPhone 11 Pro, 256GB, Color Plata",
+      "price": 999,
+      "thumbnail": "iphone11pro.jpg",
+      "code": "IPH11P-256-PLATA",
+      "stock": 7
+    },
+    {
+      "id": "8",
+      "title": "iPhone 11 Pro Max",
+      "description": "iPhone 11 Pro Max, 512GB, Color Gris Espacial",
+      "price": 1199,
+      "thumbnail": "iphone11promax.jpg",
+      "code": "IPH11PM-512-GRIS",
+      "stock": 5
+    },
+    {
+      "id": "9",
+      "title": "iPhone 12",
+      "description": "iPhone 12, 128GB, Color Azul",
+      "price": 799,
+      "thumbnail": "iphone12.jpg",
+      "code": "IPH12-128-AZUL",
+      "stock": 8
+    },
+    {
+      "id": "10",
+      "title": "iPhone 12 Pro",
+      "description": "iPhone 12 Pro, 256GB, Color Oro",
+      "price": 999,
+      "thumbnail": "iphone12pro.jpg",
+      "code": "IPH12P-256-ORO",
+      "stock": 6
+    }
+  ]
+  
