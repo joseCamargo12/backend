@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "title": "iPhone 11",
+    "description": "iPhone 11, 128GB, Color Negro",
+    "code": "IPH11-128-NEGRO",
+    "price": 999,
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": "iphone11.jpg",
+    "status": true
+  },
+  {
+    "id": "2",
+    "title": "iPhone 11 Pro",
+    "description": "iPhone 11 Pro, 256GB, Color Plata",
+    "code": "IPH11P-256-PLATA",
+    "price": 1199,
+    "stock": 8,
+    "category": "Electronics",
+    "thumbnails": "iphone11pro.jpg",
+    "status": true
+  },
+  {
+    "id": "3",
+    "title": "iPhone 11 Pro Max",
+    "description": "iPhone 11 Pro Max, 512GB, Color Gris Espacial",
+    "code": "IPH11PM-512-GRIS",
+    "price": 1299,
+    "stock": 6,
+    "category": "Electronics",
+    "thumbnails": "iphone11promax.jpg",
+    "status": true
+  },
+  {
+    "id": "4",
+    "title": "iPhone 12",
+    "description": "iPhone 12, 128GB, Color Rojo",
+    "code": "IPH12-128-ROJO",
+    "price": 1099,
+    "stock": 7,
+    "category": "Electronics",
+    "thumbnails": "iphone12.jpg",
+    "status": true
+  },
+  {
+    "id": "5",
+    "title": "iPhone 12 Pro",
+    "description": "iPhone 12 Pro, 256GB, Color Verde",
+    "code": "IPH12P-256-VERDE",
+    "price": 1199,
+    "stock": 5,
+    "category": "Electronics",
+    "thumbnails": "iphone12pro.jpg",
+    "status": true
+  },
+  {
+    "id": "6",
+    "title": "iPhone 12 Pro",
+    "description": "iPhone 12 Pro, 512GB, Color Azul",
+    "code": "IPH12P-512-AZUL",
+    "price": 1399,
+    "stock": 8,
+    "category": "Electronics",
+    "thumbnails": "iphone12pro.jpg",
+    "status": true
+  },
+  {
+    "id": "7",
+    "title": "iPhone 12 Pro Max",
+    "description": "iPhone 12 Pro Max, 128GB, Color Plata",
+    "code": "IPH12PM-128-PLATA",
+    "price": 1299,
+    "stock": 6,
+    "category": "Electronics",
+    "thumbnails": "iphone12promax.jpg",
+    "status": true
+  },
+  {
+    "id": "8",
+    "title": "iPhone 12 Pro",
+    "description": "iPhone 12 Pro, 256GB, Color Oro",
+    "code": "IPH12P-256-ORO",
+    "price": 1299,
+    "stock": 7,
+    "category": "Electronics",
+    "thumbnails": "iphone12pro.jpg",
+    "status": true
+  },
+  {
+    "id": "9",
+    "title": "iPhone 12 Pro Max",
+    "description": "iPhone 12 Pro Max, 512GB, Color Grafito",
+    "code": "IPH12PM-512-GRAFITO",
+    "price": 1499,
+    "stock": 5,
+    "category": "Electronics",
+    "thumbnails": "iphone12promax.jpg",
+    "status": true
+  },
+  {
+    "id": "10",
+    "title": "iPhone 12 Pro",
+    "description": "iPhone 12 Pro, 128GB, Color Verde",
+    "code": "IPH12P-128-VERDE",
+    "price": 1199,
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": "iphone12pro.jpg",
+    "status": true
+  }
+]

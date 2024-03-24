@@ -1,14 +1,14 @@
 import express from 'express';
-import productsRouter from './routes/Products.js';
-import cartsRouter from './routes/Carts.js'; 
+import productsRouter from './routes/products.js'; // Cambiado a minúsculas para coincidir con el nombre del archivo
+import cartsRouter from './routes/carts.js'; // Cambiado a minúsculas para coincidir con el nombre del archivo
 
-const app = express();
 const PORT = 8080;
+const app = express(); // Definir app aquí
 
 app.use(express.json());
 app.use('/api/products', productsRouter);
-app.use('/api/carts', cartsRouter); // Usa el enrutador de carritos en la ruta /api/carts
+app.use('/api/carts', cartsRouter);
 
 app.listen(PORT, () => {
-    console.log(`Servidor activo en http://localhost:${PORT}`);
+  console.log(`Servidor activo en http://localhost:${PORT}`);
 });
