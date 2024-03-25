@@ -108,5 +108,60 @@
     "category": "Electronics",
     "thumbnails": "iphone12pro.jpg",
     "status": true
+  },
+  {
+    "id": "11",
+    "title": "iPhone 17",
+    "description": "iPhone 8, 128GB, Color Azul",
+    "code": "IPH13-128-AZUL",
+    "price": 999,
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": "iphone13.jpg",
+    "status": true
+  },
+  {
+    "id": "12",
+    "title": "iPhone 17",
+    "description": "iPhone 8, 128GB, Color Azul",
+    "code": "IPH13-128-AZUL",
+    "price": 999,
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": "iphone13.jpg",
+    "status": true
+  },
+  {
+    "id": "13",
+    "title": "iPhone 17",
+    "description": "iPhone 8, 128GB, Color Azul",
+    "code": "IPH13-128-AZUL",
+    "price": 999,
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": "iphone13.jpg",
+    "status": true
+  },
+  {
+    "id": "14",
+    "title": "iPhone 17",
+    "description": "iPhone 8, 128GB, Color Azul",
+    "code": "IPH13-128-AZUL",
+    "price": 999,
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": "iphone13.jpg",
+    "status": true
+  },
+  {
+    "id": "cf570521-399f-4732-876b-1d2c745b5a93",
+    "title": "iPhone 17",
+    "description": "iPhone 8, 128GB, Color Azul",
+    "code": "IPH13-128-AZUL",
+    "price": 999,
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": "iphone13.jpg",
+    "status": true
   }
 ]

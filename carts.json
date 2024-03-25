@@ -4,8 +4,12 @@
     "products": [
       {
         "id": "1",
-        "quantity": 1
+        "quantity": 2
       }
     ]
+  },
+  {
+    "id": "cd71fa2b-4b6a-4d02-a038-58ea06648fca",
+    "products": []
   }
 ]

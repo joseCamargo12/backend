@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="new-product-form">
+  <h3>Agregar nuevo producto</h3>
+  <label for="title">Título:</label>
+  <input type="text" id="title" name="title" required>
+
+  <label for="description">Descripción:</label>
+  <textarea id="description" name="description" required></textarea>
+
+  <label for="code">Código:</label>
+  <input type="text" id="code" name="code" required>
+
+  <label for="price">Precio:</label>
+  <input type="number" id="price" name="price" required>
+
+  <label for="stock">Stock:</label>
+  <input type="number" id="stock" name="stock" required>
+
+  <label for="category">Categoría:</label>
+  <select id="category" name="category" required>
+    <option value="">Seleccione una categoría</option>
+    <option value="Tecnología">Tecnología</option>
+    <option value="Ropa">Ropa</option>
+    <option value="Hogar">Hogar</option>
+  </select>
+
+  <label for="thumbnails">Imagen (opcional):</label>
+  <input type="file" id="thumbnails" name="thumbnails">
+
+  <button type="submit">Agregar producto</button>
+</form>
+
+{{#each products}}
+<div class="producto">
+  <h2>{{title}}</h2>
+  <p><strong>Descripción:</strong> {{description}}</p>
+  <p><strong>Código:</strong> {{code}}</p>
+  <p><strong>Precio:</strong> ${{price}}</p>
+  <p><strong>Stock:</strong> {{stock}}</p>
+  <p><strong>Categoría:</strong> {{category}}</p>
+  {{#if thumbnails}}
+  <img src="{{thumbnails}}" alt="{{title}}">
+  {{/if}}
+  <button class="delete-product-button" data-product-id="{{id}}">Eliminar producto</button>
+</div>
+{{/each}}
+
+</body>
+</html>
